@@ -22,7 +22,7 @@ Inference:
 python inference.py
 ```
 
-    type in your Gemini API key and start asking question
+type in your Gemini API key and start asking question
 
 ## License
 
